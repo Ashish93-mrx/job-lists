@@ -1,0 +1,15 @@
+.job-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 8px;
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  cursor: pointer;
+  transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.job-card:hover {
+  background-color: #5b5fe9; /* Light blue, change as you like */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  color: black;
+}

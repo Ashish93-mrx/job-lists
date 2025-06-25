@@ -1,0 +1,22 @@
+/* Center entire app horizontally */
+.centered {
+  margin: 0 auto;
+  max-width: 800px; /* Adjust to fit your layout */
+  padding: 2rem 1rem;
+}
+
+/* Optional: center vertically too */
+body, html {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start; /* change to center for vertical centering */
+}
+
+/* Make card grid responsive */
+.card-grid {
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  margin-top: 1rem;
+}
