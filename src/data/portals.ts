@@ -30,6 +30,7 @@ export const jobPortals: JobPortalLink[] = [
     profilePage: 'https://www.instahyre.com/candidate/profile/',
   },
   {
+<<<<<<< HEAD
     name: 'Cuvette',
     icon: 'https://cuvette.tech/app/static/media/logo.06a7ae20.svg',
     homepage: 'https://cuvette.tech/app/dashboard/other-jobs',
@@ -37,6 +38,8 @@ export const jobPortals: JobPortalLink[] = [
     profilePage: 'https://cuvette.tech/app/student/',
   },
   {
+=======
+>>>>>>> cadbe229d9ac57db08e616a19fff195474f84f3a
     name: 'Foundit',
     icon: 'https://images.seeklogo.com/logo-png/47/1/foundit-logo-png_seeklogo-471367.png',
     homepage: 'https://www.foundit.in/seeker/dashboard',
