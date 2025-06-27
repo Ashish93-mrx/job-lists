@@ -23,6 +23,20 @@ export const jobPortals: JobPortalLink[] = [
     profilePage: 'https://www.naukri.com/mnjuser/profile',
   },
   {
+    name: 'Instahyre',
+    icon: 'https://static.instahyre.com/images/logos/logo.webp',
+    homepage: 'https://www.instahyre.com/candidate/opportunities/?matching=true',
+    statusPage: 'https://www.instahyre.com/candidate/activity/',
+    profilePage: 'https://www.instahyre.com/candidate/profile/',
+  },
+  {
+    name: 'Cuvette',
+    icon: 'https://cuvette.tech/app/static/media/logo.06a7ae20.svg',
+    homepage: 'https://cuvette.tech/app/dashboard/other-jobs',
+    statusPage: 'https://cuvette.tech/app/student/jobs/applied?view=%22job%22',
+    profilePage: 'https://cuvette.tech/app/student/',
+  },
+  {
     name: 'Foundit',
     icon: 'https://images.seeklogo.com/logo-png/47/1/foundit-logo-png_seeklogo-471367.png',
     homepage: 'https://www.foundit.in/seeker/dashboard',
